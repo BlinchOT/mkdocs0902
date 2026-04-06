@@ -1,1 +1,26 @@
-site_name: My Docs
+site_name: Мое портфолио
+site_author: Осипов Тимофей М. 504902
+site_description: Портфолио лабораторных работ по Python
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Главная: index.md
+  - Об авторе: about.md
+  - Лабораторные работы:
+      - Обзор: labs/index.md
+      - ЛР №1: labs/lab1.md
+      - ЛР №2: labs/lab2.md
+      - ЛР №3: labs/lab3.md
+      - ЛР №4: labs/lab4.md
+      - ЛР №5: labs/lab5.md
+      - ЛР №6: labs/lab6.md
+      - ЛР №7: labs/lab7.md
+      - ЛР №8: labs/lab8.md
