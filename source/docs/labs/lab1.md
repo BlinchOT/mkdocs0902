@@ -7,3 +7,14 @@
 1. Создать репозиторий
 2. Настроить GitHub Pages из папки `/docs`
 3. Развернуть сайт
+
+## Код / Команды
+```bash
+mkdocs new source
+mkdocs build -d ../docs
+git add .
+git commit -m "Deploy site"
+git push
+```
+## Выводы
+Я научился генерировать статический сайт и публиковать его в интернете.
