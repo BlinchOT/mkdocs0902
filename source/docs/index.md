@@ -10,3 +10,8 @@
 
 - [Об авторе](about.md)
 - [Лабораторные работы](labs/lab1.md)
+
+## Ссылки на проект
+
+- Репозиторий с исходниками: [github.com/BlinchOT/mkdocs0902](https://github.com/BlinchOT/mkdocs0902)
+- Сайт портфолио: [BlinchOT.github.io](https://BlinchOT.github.io)
